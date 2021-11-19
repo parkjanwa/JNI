@@ -1,0 +1,4 @@
+﻿  CallCSharp.cpp
+  CallCSharp.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+     C:\Users\User\source\repos\CallCSharp\x64\Debug\CallCSharp.lib 라이브러리 및 C:\Users\User\source\repos\CallCSharp\x64\Debug\CallCSharp.exp 개체를 생성하고 있습니다.
+  CallCSharp.vcxproj -> C:\Users\User\source\repos\CallCSharp\x64\Debug\CallCSharp.dll
